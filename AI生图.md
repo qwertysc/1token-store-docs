@@ -26,19 +26,19 @@ GPT\-image\-2 可以理解成一个“会听话的图片助理”：你用普通
 
 1. 注册账号并登录后，可在左边菜单栏找到“生图灵感”选项，点击进入后可查看各种生图提示词以及图片样例。如果图片展示格式有遮挡或闪烁等问题，可点击右上角的新窗口打开，单独开个页面查看。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjk3M2Q1ZWNkYmExN2ZiNTYwNTQ0ZTFkZGUxMTRmZWNfYzM2OWIzYTU5MzE5YTVhYTM2NDBkOGI3ZmU3OGMwNzVfSUQ6NzY1MjY1MzI3MjY4NDA4ODI5OV8xNzgyMjIxMjM3OjE3ODIzMDc2MzdfVjM)
+![Image](docs/public/images/ai-image/ai-image-01-eca63f16.png)
 
 2. 找到合适的样例后点击“复制”按钮，即可复制完整提示词，然后点击“试一试”按钮跳转到生图工具。在对话框输入生图提示词。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODQzZGVkNjU4N2Q4YjhjODk1MDBjNzgxYWNmNzljNWJfY2E5M2Y4OWQzYjNkOGNkYjc3ZTkzYjMwNDA3ODdhNTFfSUQ6NzY1MjY1NTExMzU2NDE2MzMxMF8xNzgyMjIxMjM3OjE3ODIzMDc2MzdfVjM)
+![Image](docs/public/images/ai-image/ai-image-02-cf2029b4.png)
 
 3. 然后点击右上角的设置按钮，把在[API密钥界面](https://1token-store.com/keys)申请到的密钥填入。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2U0NDQwOTEyZDEwNzUzNmRhNzNkYmMyYzFlNTk1NWJfY2U5NjYwZmYzNDBjMmM0NWU5NDY4NTVjNjBmOWVjNzVfSUQ6NzY1MjY1NTU5MzY2NjQ0ODU3NV8xNzgyMjIxMjM3OjE3ODIzMDc2MzdfVjM)
+![Image](docs/public/images/ai-image/ai-image-03-1c398b32.png)
 
 4. 在聊天窗口点击发送按钮，耐心等待即可得到你的作品。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmVhMzQ5ZjlmZTE0NDEyM2E1MWI1NWQ5ZGUyMWU1ZDJfNjE3ZTU5M2FjZWU1OWFiMzQ4MTM1NzhkYzIxZjM2OTRfSUQ6NzY1MjY1NjYyOTIzNzk3NjA1Ml8xNzgyMjIxMjM3OjE3ODIzMDc2MzdfVjM)
+![Image](docs/public/images/ai-image/ai-image-04-e7102a77.png)
 
 
 

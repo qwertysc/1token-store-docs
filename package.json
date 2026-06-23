@@ -6,7 +6,8 @@
   "scripts": {
     "docs:dev": "vitepress docs --host 0.0.0.0",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs --host 0.0.0.0"
+    "docs:preview": "vitepress preview docs --host 0.0.0.0",
+    "images:localize": "node scripts/localize-feishu-images.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"

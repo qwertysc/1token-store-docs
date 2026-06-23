@@ -78,7 +78,7 @@ WX shenchong999
 
 5. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 02 一键配置 Codex \- macOS\.command。
 
-|![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzUyMjFlY2RmNzFjOWE2MGVmNThjOTE3Y2M0NDQ2NzVfZDE5NDFiYjE1NzFiMTc1OTc3MmRhODQyYzc2NTJlMTlfSUQ6NzY1MDQyNTk3NzcwNTgxMTE1N18xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)<br>|![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg3MmM2ZTQzNjkyYWY5ZTQ3ZGM3NjNmNTBiMzY3NzVfN2E2M2U0OTFjMWMzOGNjNmIzOTMxMzA2ODQwYWQxYWVfSUQ6NzY1MDQyNTk5MjY0OTk4NTI2OV8xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)<br>|
+|![Image](docs/public/images/codex/codex-01-84fef160.png)<br>|![Image](docs/public/images/codex/codex-02-c18d4169.png)<br>|
 |---|---|
 
 6. 终端窗口出现提示后，粘贴 OPENAI\_API\_KEY。
@@ -105,11 +105,11 @@ WX shenchong999
 
     3. 如果上述两个Codex安装尝试都失败，可以改 "Codex\-Windows安装包\.Msix"文件后缀Msix为zip，让其变成一个压缩包，然后解压文件，解压过程比较慢，解压完毕后可能会触发杀毒软件扫描而卡住，都是正常现象，然后在解压出的文件夹中找到app文件夹，双击其中的Codex\.exe即可运行。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTI2MDQ5NjRmNzg3NGU0ZmRiMjMzYzAzMzJkM2I4N2RfZGY0YTA0NGEyMTg5N2Y4NzY4YzAxMTczNzhhYzhjZGJfSUQ6NzY1MTg3NTk1MjY3MzUyNDkyNF8xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)
+![Image](docs/public/images/codex/codex-03-d9b22ee5.png)
 
 3. 如果使用我的中转服务，共享ChatGPT订阅账号额度跟Codex更适配，输入1，按回车。
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2JlZDZlODYzODg5YjhhY2EzZGQyOGU3MmY4ZDhkMWNfNGJmYjRlYWU1YTQ0MzVlYmNhYTJkNDJlMWM5NDZiMGFfSUQ6NzY1MTg3NzQ4Mzk4MTgwMjcxNV8xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)
+![Image](docs/public/images/codex/codex-04-7eeab7d2.png)
 
 4. 粘贴从[TokenToken使用文档](https://givklov4fjz.feishu.cn/docx/YypYdoSCno9bdwxLAuocINyrnlf) 申请的API密钥，按回车。粘贴时屏幕上不会显示内容，这是正常现象。
 
@@ -117,7 +117,7 @@ WX shenchong999
 
 6. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC\-Switch\-v3\.16\.1\-Windows\-Portable\.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
-    |![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjRlZGQyYTBhYmNjMGIyNDkxNjU0NjFlOTMxY2RlYWZfYjcyZTYxNDJmNjJkYzU0MTJjMTM1MzJjNzNkZTI3MzdfSUQ6NzY1MTg4MTM4MzA3NDA1NzE5MF8xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)<br>    |![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2M5NzY5MTljOWExNGI1ZmRlMzA4MTAzODRkODUxM2ZfZWQ4NmExMDBkN2U4ZmJhNzljMGYxZjdmYWJmM2NhNzNfSUQ6NzY1MTg4MDY0NjQ3OTA1NTgyM18xNzgyMjE2MDcyOjE3ODIzMDI0NzJfVjM)<br>    |
+    |![Image](docs/public/images/codex/codex-05-5e1b7459.png)<br>    |![Image](docs/public/images/codex/codex-06-aa3289d5.png)<br>    |
     |---|---|
 
 
