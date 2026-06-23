@@ -78,7 +78,7 @@ WX shenchong999
 
 5. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 02 一键配置 Codex \- macOS\.command。
 
-|![Image](docs/public/images/codex/codex-01-84fef160.png)<br>|![Image](docs/public/images/codex/codex-02-c18d4169.png)<br>|
+|![Image](docs/public/images/codex/codex-01-84fef160.webp)<br>|![Image](docs/public/images/codex/codex-02-c18d4169.webp)<br>|
 |---|---|
 
 6. 终端窗口出现提示后，粘贴 OPENAI\_API\_KEY。
@@ -105,11 +105,11 @@ WX shenchong999
 
     3. 如果上述两个Codex安装尝试都失败，可以改 "Codex\-Windows安装包\.Msix"文件后缀Msix为zip，让其变成一个压缩包，然后解压文件，解压过程比较慢，解压完毕后可能会触发杀毒软件扫描而卡住，都是正常现象，然后在解压出的文件夹中找到app文件夹，双击其中的Codex\.exe即可运行。
 
-![Image](docs/public/images/codex/codex-03-d9b22ee5.png)
+![Image](docs/public/images/codex/codex-03-d9b22ee5.webp)
 
 3. 如果使用我的中转服务，共享ChatGPT订阅账号额度跟Codex更适配，输入1，按回车。
 
-![Image](docs/public/images/codex/codex-04-7eeab7d2.png)
+![Image](docs/public/images/codex/codex-04-7eeab7d2.webp)
 
 4. 粘贴从[TokenToken使用文档](https://givklov4fjz.feishu.cn/docx/YypYdoSCno9bdwxLAuocINyrnlf) 申请的API密钥，按回车。粘贴时屏幕上不会显示内容，这是正常现象。
 
@@ -117,7 +117,7 @@ WX shenchong999
 
 6. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC\-Switch\-v3\.16\.1\-Windows\-Portable\.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
-    |![Image](docs/public/images/codex/codex-05-5e1b7459.png)<br>    |![Image](docs/public/images/codex/codex-06-aa3289d5.png)<br>    |
+    |![Image](docs/public/images/codex/codex-05-5e1b7459.webp)<br>    |![Image](docs/public/images/codex/codex-06-aa3289d5.webp)<br>    |
     |---|---|
 
 
