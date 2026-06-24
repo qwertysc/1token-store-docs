@@ -11,6 +11,30 @@
   border-radius: 8px;
 }
 
+.vp-doc p > img,
+.vp-doc p > a > img {
+  display: block;
+  width: auto;
+  max-width: min(100%, 560px);
+  max-height: 520px;
+  margin: 16px auto;
+  object-fit: contain;
+}
+
+.vp-doc p > a:has(> img) {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 16px auto;
+}
+
+.vp-doc table img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+}
+
 .vp-doc table {
   display: table;
   width: 100%;
@@ -18,4 +42,16 @@
 
 .vp-doc td {
   vertical-align: top;
+}
+
+@media (max-width: 640px) {
+  .vp-doc p > img,
+  .vp-doc p > a > img {
+    max-height: 460px;
+    max-width: 100%;
+  }
+
+  .vp-doc table img {
+    max-height: 320px;
+  }
 }

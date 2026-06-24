@@ -26,19 +26,19 @@ GPT\-image\-2 可以理解成一个“会听话的图片助理”：你用普通
 
 1. 注册账号并登录后，可在左边菜单栏找到“生图灵感”选项，点击进入后可查看各种生图提示词以及图片样例。如果图片展示格式有遮挡或闪烁等问题，可点击右上角的新窗口打开，单独开个页面查看。
 
-![Image](docs/public/images/ai-image/ai-image-01-eca63f16.webp)
+[![Image](docs/public/images/ai-image/ai-image-01-eca63f16.webp)](docs/public/images/ai-image/ai-image-01-eca63f16.webp)
 
 2. 找到合适的样例后点击“复制”按钮，即可复制完整提示词，然后点击“试一试”按钮跳转到生图工具。在对话框输入生图提示词。
 
-![Image](docs/public/images/ai-image/ai-image-02-cf2029b4.webp)
+[![Image](docs/public/images/ai-image/ai-image-02-cf2029b4.webp)](docs/public/images/ai-image/ai-image-02-cf2029b4.webp)
 
 3. 然后点击右上角的设置按钮，把在[API密钥界面](https://1token-store.com/keys)申请到的密钥填入。
 
-![Image](docs/public/images/ai-image/ai-image-03-1c398b32.webp)
+[![Image](docs/public/images/ai-image/ai-image-03-1c398b32.webp)](docs/public/images/ai-image/ai-image-03-1c398b32.webp)
 
 4. 在聊天窗口点击发送按钮，耐心等待即可得到你的作品。
 
-![Image](docs/public/images/ai-image/ai-image-04-e7102a77.webp)
+[![Image](docs/public/images/ai-image/ai-image-04-e7102a77.webp)](docs/public/images/ai-image/ai-image-04-e7102a77.webp)
 
 
 
