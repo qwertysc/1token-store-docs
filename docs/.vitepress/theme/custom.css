@@ -26,6 +26,7 @@
   width: fit-content;
   max-width: 100%;
   margin: 16px auto;
+  cursor: zoom-in;
 }
 
 .vp-doc table img {
@@ -44,6 +45,61 @@
   vertical-align: top;
 }
 
+.image-lightbox-open {
+  overflow: hidden;
+}
+
+.image-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  padding: 32px;
+  background: rgba(17, 24, 39, 0.88);
+}
+
+.image-lightbox__image {
+  max-width: min(100%, 1120px);
+  max-height: 88vh;
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  object-fit: contain;
+}
+
+.image-lightbox__close {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: rgba(17, 24, 39, 0.72);
+  cursor: pointer;
+}
+
+.image-lightbox__close::before,
+.image-lightbox__close::after {
+  position: absolute;
+  top: 18px;
+  left: 10px;
+  width: 18px;
+  height: 2px;
+  border-radius: 999px;
+  background: #fff;
+  content: "";
+}
+
+.image-lightbox__close::before {
+  transform: rotate(45deg);
+}
+
+.image-lightbox__close::after {
+  transform: rotate(-45deg);
+}
+
 @media (max-width: 640px) {
   .vp-doc p > img,
   .vp-doc p > a > img {
@@ -53,5 +109,13 @@
 
   .vp-doc table img {
     max-height: 320px;
+  }
+
+  .image-lightbox {
+    padding: 16px;
+  }
+
+  .image-lightbox__image {
+    max-height: 84vh;
   }
 }
