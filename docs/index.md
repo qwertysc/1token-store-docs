@@ -14,6 +14,7 @@
 | --- | --- |
 | 第一次使用平台 | [TokenToken 使用文档](/guide/token-token) |
 | 用 Codex 写代码、控制电脑 | [Codex 使用教程](/guide/codex) |
+| Windows Codex 界面汉化 | [Codex Windows 汉化教程](/guide/codex-windows-chinesization) |
 | 生成图片、海报、封面 | [AI 生图](/guide/ai-image) |
 | 在 ima 中接入 GPT 模型 | [ima + GPT](/guide/ima-gpt) |
 

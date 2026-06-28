@@ -115,7 +115,9 @@ WX shenchong999
 
 5. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
 
-6. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
+6. 如果 Windows 版 Codex 界面显示英文，可以参考 [Codex Windows 汉化教程](/guide/codex-windows-chinesization) 处理。
+
+7. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
     |[![Image](/images/codex/codex-05-5e1b7459.webp)](/images/codex/codex-05-5e1b7459.webp)<br>    |[![Image](/images/codex/codex-06-aa3289d5.webp)](/images/codex/codex-06-aa3289d5.webp)<br>    |
     |---|---|
@@ -235,6 +237,5 @@ https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi
 2. 不要把 auth.json 截图发到公开群聊或社交平台。
 
 3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
-
 
 

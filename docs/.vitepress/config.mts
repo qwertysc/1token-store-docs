@@ -23,6 +23,7 @@ export default defineConfig({
         text: '接入教程',
         items: [
           { text: 'Codex 使用教程', link: '/guide/codex' },
+          { text: 'Codex Windows 汉化教程', link: '/guide/codex-windows-chinesization' },
           { text: 'AI 生图', link: '/guide/ai-image' },
           { text: 'ima + GPT', link: '/guide/ima-gpt' }
         ]
