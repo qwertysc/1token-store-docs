@@ -4,7 +4,7 @@
 
 ## 快速开始
 
-1. 进入 [TokenToken 官网](https://1token-store.com/) 注册账号。
+1. 进入 <a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">TokenToken 官网</a> 注册账号。
 2. 在控制台创建 API 密钥。
 3. 按你的使用场景阅读对应教程。
 
@@ -12,14 +12,14 @@
 
 | 场景 | 适合阅读 |
 | --- | --- |
-| 第一次使用平台 | [TokenToken 使用文档](/guide/token-token) |
-| 用 Codex 写代码、控制电脑 | [Codex 使用教程](/guide/codex) |
-| Windows Codex 界面汉化 | [Codex Windows 汉化教程](/guide/codex-windows-chinesization) |
-| 生成图片、海报、封面 | [AI 生图](/guide/ai-image) |
-| 在 ima 中接入 GPT 模型 | [ima + GPT](/guide/ima-gpt) |
+| 第一次使用平台 | <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用文档</a> |
+| 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a> |
+| Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化教程</a> |
+| 生成图片、海报、封面 | <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI 生图</a> |
+| 在 ima 中接入 GPT 模型 | <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">ima + GPT</a> |
 
 ## 常用入口
 
-- 官网：[https://1token-store.com/](https://1token-store.com/)
-- API 密钥：[https://1token-store.com/keys](https://1token-store.com/keys)
+- 官网：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">https://1token-store.com/</a>
+- API 密钥：<a href="https://1token-store.com/keys" target="_blank" rel="noopener noreferrer">https://1token-store.com/keys</a>
 - 售后联系：QQ `690023772`，微信 `shenchong999`

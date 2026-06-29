@@ -12,7 +12,7 @@
 
 #### 注册账户
 
-进入官网  [TokenToken](https://1token-store.com/)
+进入官网  <a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">TokenToken</a>
 
 #### 注册奖励
 
@@ -22,13 +22,13 @@
 
 没问题，欢迎来微信QQ找我要兑换码，拿到兑换码后，可在左侧菜单栏的“兑换”页面中兑换
 
-[![Image](/images/token-token/token-token-01-6365d5bc.webp)](/images/token-token/token-token-01-6365d5bc.webp)
+<a href="/images/token-token/token-token-01-6365d5bc.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-01-6365d5bc.webp" alt="Image"></a>
 
 #### 创建密钥
 
 在开始大模型使用前，需要先创建密钥。点击左侧菜单栏的“API密钥”，然后点击页面右上方的“创建密钥”按钮创建密钥。名称随意填，分组选择“openai”，其他的不用动，然后点击创建就可得到一个密钥
 
-[![Image](/images/token-token/token-token-02-34cd4c9a.webp)](/images/token-token/token-token-02-34cd4c9a.webp)
+<a href="/images/token-token/token-token-02-34cd4c9a.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-02-34cd4c9a.webp" alt="Image"></a>
 
 #### 使用密钥
 
@@ -38,29 +38,29 @@
 
 **方式3**，点击“导入到CCS”按钮即可一键跳转到CCS配置。
 
-[![Image](/images/token-token/token-token-03-e7b106b5.webp)](/images/token-token/token-token-03-e7b106b5.webp)
+<a href="/images/token-token/token-token-03-e7b106b5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-03-e7b106b5.webp" alt="Image"></a>
 
 #### 接入各种软件
 
-[Codex使用教程](/guide/codex) 
+<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用教程</a> 
 
-[AI生图](/guide/ai-image)
+<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
 
-[IMA+GPT=精品小龙虾](/guide/ima-gpt)
+<a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">IMA+GPT=精品小龙虾</a>
 
 #### 充值订阅
 
 如额度用完，可点击左侧菜单栏“充值/订阅”，在页面内选择金额后点击确认支付微信扫码充值，自动入账，如有疑问欢迎随时咨询站长wx shenchong999，qq 690023772。1 rmb = 1 刀，gpt系列模型相当于官方价1.5折
 
-[![Image](/images/token-token/token-token-04-357b70a5.webp)](/images/token-token/token-token-04-357b70a5.webp)
+<a href="/images/token-token/token-token-04-357b70a5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-04-357b70a5.webp" alt="Image"></a>
 
 #### 优惠使用
 
 若token用量较大，可选择订阅服务，相比余额充值优惠更大。在“我的订阅”页面可看到已订阅套餐的详细信息
 
-[![Image](/images/token-token/token-token-05-43e30a82.webp)](/images/token-token/token-token-05-43e30a82.webp)
+<a href="/images/token-token/token-token-05-43e30a82.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-05-43e30a82.webp" alt="Image"></a>
 
-[![Image](/images/token-token/token-token-06-1c496134.webp)](/images/token-token/token-token-06-1c496134.webp)
+<a href="/images/token-token/token-token-06-1c496134.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-06-1c496134.webp" alt="Image"></a>
 
 #### 【**重要**】如何使用订阅的资源？
 
@@ -68,14 +68,14 @@
 
 **方法2**，在已有密钥的“分组”列点击“选择分组”，切换到订阅套餐上，参考图2
 
-|[![Image](/images/token-token/token-token-07-221fe3b5.webp)](/images/token-token/token-token-07-221fe3b5.webp)<br>|[![Image](/images/token-token/token-token-08-c2ce5ce4.webp)](/images/token-token/token-token-08-c2ce5ce4.webp)<br>|
+|<a href="/images/token-token/token-token-07-221fe3b5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-07-221fe3b5.webp" alt="Image"></a><br>|<a href="/images/token-token/token-token-08-c2ce5ce4.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-08-c2ce5ce4.webp" alt="Image"></a><br>|
 |---|---|
 
 #### 邀请返利
 
 若老板们用着顺手认可小站服务，可分享邀请链接给朋友，返佣系统欢迎光临
 
-[![Image](/images/token-token/token-token-09-03e7fa4c.webp)](/images/token-token/token-token-09-03e7fa4c.webp)
+<a href="/images/token-token/token-token-09-03e7fa4c.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-09-03e7fa4c.webp" alt="Image"></a>
 
 
 
@@ -83,11 +83,11 @@
 
 ## 各种教程
 
-[Codex使用教程](/guide/codex)
+<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用教程</a>
 
-[AI生图](/guide/ai-image)
+<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
 
-[IMA+GPT=精品小龙虾](/guide/ima-gpt)
+<a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">IMA+GPT=精品小龙虾</a>
 
 
 
@@ -101,7 +101,7 @@
 
 欢迎各位老板加群，售后问题第一时间回复
 
-[![Image](/images/token-token/token-token-10-8ea34486.webp)](/images/token-token/token-token-10-8ea34486.webp)
+<a href="/images/token-token/token-token-10-8ea34486.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-10-8ea34486.webp" alt="Image"></a>
 
 
 

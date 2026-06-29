@@ -4,11 +4,11 @@
 
 #### 本工具包用于帮助用户完成 Codex 桌面端安装和基础配置，相关内容都在网盘中，免去网络困扰。
 
-夸克网盘codex安装包+配置脚本链接：https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z
+夸克网盘codex安装包+配置脚本链接：<a href="https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z</a>
 
 提取码：1D4Z
 
-百度网盘codex安装包+配置脚本链接，https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594
+百度网盘codex安装包+配置脚本链接，<a href="https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594" target="_blank" rel="noopener noreferrer">https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594</a>
 
 提取码: 9594
 
@@ -16,7 +16,7 @@
 
 【视频教程】
 
-https://www.bilibili.com/video/BV1Kt7A6YEqA
+<a href="https://www.bilibili.com/video/BV1Kt7A6YEqA" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1Kt7A6YEqA</a>
 
 
 
@@ -56,7 +56,7 @@ WX shenchong999
 
 2. 避免执行失败，建议完整下载网盘文件夹内容。
 
-3. 在官网[TokenToken](https://1token-store.com) 申请 API密钥（OPENAI_API_KEY）。网站使用文档：[TokenToken使用文档](/guide/token-token)
+3. 在官网<a href="https://1token-store.com" target="_blank" rel="noopener noreferrer">TokenToken</a> 申请 API密钥（OPENAI_API_KEY）。网站使用文档：<a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a>
 
     
 
@@ -78,7 +78,7 @@ WX shenchong999
 
 5. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 02 一键配置 Codex - macOS.command。
 
-|[![Image](/images/codex/codex-01-84fef160.webp)](/images/codex/codex-01-84fef160.webp)<br>|[![Image](/images/codex/codex-02-c18d4169.webp)](/images/codex/codex-02-c18d4169.webp)<br>|
+|<a href="/images/codex/codex-01-84fef160.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-01-84fef160.webp" alt="Image"></a><br>|<a href="/images/codex/codex-02-c18d4169.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-02-c18d4169.webp" alt="Image"></a><br>|
 |---|---|
 
 6. 终端窗口出现提示后，粘贴 OPENAI_API_KEY。
@@ -105,21 +105,21 @@ WX shenchong999
 
     3. 如果上述两个Codex安装尝试都失败，可以改 "Codex-Windows安装包.Msix"文件后缀Msix为zip，让其变成一个压缩包，然后解压文件，解压过程比较慢，解压完毕后可能会触发杀毒软件扫描而卡住，都是正常现象，然后在解压出的文件夹中找到app文件夹，双击其中的Codex.exe即可运行。
 
-[![Image](/images/codex/codex-03-d9b22ee5.webp)](/images/codex/codex-03-d9b22ee5.webp)
+<a href="/images/codex/codex-03-d9b22ee5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-03-d9b22ee5.webp" alt="Image"></a>
 
 3. 如果使用我的中转服务，共享ChatGPT订阅账号额度跟Codex更适配，输入1，按回车。
 
-[![Image](/images/codex/codex-04-7eeab7d2.webp)](/images/codex/codex-04-7eeab7d2.webp)
+<a href="/images/codex/codex-04-7eeab7d2.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-04-7eeab7d2.webp" alt="Image"></a>
 
-4. 粘贴从[TokenToken使用文档](/guide/token-token) 申请的API密钥，按回车。粘贴时屏幕上不会显示内容，这是正常现象。
+4. 粘贴从<a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请的API密钥，按回车。粘贴时屏幕上不会显示内容，这是正常现象。
 
 5. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
 
-6. 如果 Windows 版 Codex 界面显示英文，可以参考 [Codex Windows 汉化教程](/guide/codex-windows-chinesization) 处理。
+6. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化教程</a> 处理。
 
 7. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
-    |[![Image](/images/codex/codex-05-5e1b7459.webp)](/images/codex/codex-05-5e1b7459.webp)<br>    |[![Image](/images/codex/codex-06-aa3289d5.webp)](/images/codex/codex-06-aa3289d5.webp)<br>    |
+    |<a href="/images/codex/codex-05-5e1b7459.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-05-5e1b7459.webp" alt="Image"></a><br>    |<a href="/images/codex/codex-06-aa3289d5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-06-aa3289d5.webp" alt="Image"></a><br>    |
     |---|---|
 
 
@@ -196,25 +196,25 @@ auth.json.bak.20260605-120000
 
 Codex 官方页面：
 
-https://openai.com/codex/
+<a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer">https://openai.com/codex/</a>
 
 
 
 Codex 入门指南：
 
-https://openai.com/codex/get-started/
+<a href="https://openai.com/codex/get-started/" target="_blank" rel="noopener noreferrer">https://openai.com/codex/get-started/</a>
 
 
 
 Codex 应用介绍：
 
-https://openai.com/index/introducing-the-codex-app/
+<a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" rel="noopener noreferrer">https://openai.com/index/introducing-the-codex-app/</a>
 
 
 
 Windows 官方安装入口：
 
-https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi
+<a href="https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi" target="_blank" rel="noopener noreferrer">https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi</a>
 
 
 
@@ -222,7 +222,7 @@ https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi
 
 可以尝试我们的服务，正规订阅账户，用不完来分享，生图、写代码都可以
 
-官网地址 [TokenToken](https://1token-store.com)
+官网地址 <a href="https://1token-store.com" target="_blank" rel="noopener noreferrer">TokenToken</a>
 
 建议收藏本站，后续遇到安装、配置、网络或使用问题，可以联系qq 690023772、wx shenchong999
 
@@ -237,5 +237,4 @@ https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi
 2. 不要把 auth.json 截图发到公开群聊或社交平台。
 
 3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
-
 

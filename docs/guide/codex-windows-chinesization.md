@@ -13,7 +13,7 @@
 
 ## 二、下载汉化工具
 
-请先打开 [Codex 使用教程](/guide/codex)，在页面中的网盘链接里下载：
+请先打开 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a>，在页面中的网盘链接里下载：
 
 `Codex-windows汉化工具.zip`
 
@@ -23,21 +23,25 @@
 
 1. 解压 `Codex-windows汉化工具.zip`。
 
-2. 打开解压后的 `Codex-windows汉化工具` 文件夹，双击 `install-windows.bat`。
+2. 打开解压后的 `Codex-windows汉化工具` 文件夹，双击 `node-v24.18.0-x64.msi` 安装环境依赖。安装过程中保持默认选项，一路点击 `Next` 即可。
+
+   <a href="/images/codex-windows-chinesization/node-install.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex-windows-chinesization/node-install.webp" alt="安装 Node.js 环境依赖"></a>
+
+3. 环境依赖安装完成后，回到 `Codex-windows汉化工具` 文件夹，双击 `install-windows.bat`。
 
    如果弹出“你要允许此应用对你的设备进行更改吗？”的提示，选择“是”。
 
-   [![双击 install-windows.bat](/images/codex-windows-chinesization/图1.jpg)](/images/codex-windows-chinesization/图1.jpg)
+   <a href="/images/codex-windows-chinesization/图1.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex-windows-chinesization/图1.webp" alt="双击 install-windows.bat"></a>
 
-3. 看到工具菜单后，输入 `1`，然后按回车。
+4. 看到工具菜单后，输入 `1`，然后按回车。
 
-   [![选择安装汉化](/images/codex-windows-chinesization/图2.jpg)](/images/codex-windows-chinesization/图2.jpg)
+   <a href="/images/codex-windows-chinesization/图2.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex-windows-chinesization/图2.webp" alt="选择安装汉化"></a>
 
-4. 等待汉化程序执行完成。出现“汉化安装完成”后，工具会自动重新打开 Codex。
+5. 等待汉化程序执行完成。出现“汉化安装完成”后，工具会自动重新打开 Codex。
 
    如果 Codex 界面已经显示中文，说明汉化生效。
 
-   [![汉化安装完成](/images/codex-windows-chinesization/图3.jpg)](/images/codex-windows-chinesization/图3.jpg)
+   <a href="/images/codex-windows-chinesization/图3.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex-windows-chinesization/图3.webp" alt="汉化安装完成"></a>
 
 ## 四、后续如何打开汉化版
 
@@ -47,7 +51,7 @@
 
 为了方便使用，建议右键点击 `Codex 汉化版.bat`，选择“发送到” -> “桌面快捷方式”，以后就可以从桌面直接打开汉化版。
 
-[![创建桌面快捷方式](/images/codex-windows-chinesization/图4.jpg)](/images/codex-windows-chinesization/图4.jpg)
+<a href="/images/codex-windows-chinesization/图4.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex-windows-chinesization/图4.webp" alt="创建桌面快捷方式"></a>
 
 ## 五、常见问题
 
@@ -65,13 +69,13 @@ Windows 10 上可能出现部分内容没有汉化的情况，这属于已知限
 
 4. 汉化工具和 Codex 配置工具是什么关系？
 
-汉化工具只负责界面语言。Codex 安装、模型配置、API 密钥配置请参考 [Codex 使用教程](/guide/codex)。
+汉化工具只负责界面语言。Codex 安装、模型配置、API 密钥配置请参考 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a>。
 
 ## 六、技术支持
 
 TokenToken 提供 Codex 安装、配置和汉化相关技术支持。
 
-官网地址：[https://1token-store.com/](https://1token-store.com/)，满血 GPT 系列模型，更适配 Codex。
+官网地址：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">https://1token-store.com/</a>，满血 GPT 系列模型，更适配 Codex。
 
 如需一对一协助，可联系：
 
