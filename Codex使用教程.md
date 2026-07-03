@@ -1,22 +1,20 @@
-# Codex使用教程
+# Codex使用
 
 # 一、用途说明
 
 #### 本工具包用于帮助用户完成 Codex 桌面端安装和基础配置，相关内容都在网盘中，免去网络困扰。
 
-夸克网盘codex安装包\+配置脚本链接：https://pan\.quark\.cn/s/4c758e82b7c4?pwd=1D4Z
+网盘下载：
 
-提取码：1D4Z
+1. [夸克网盘下载（提取码：1D4Z）](https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z)
 
-百度网盘codex安装包\+配置脚本链接，https://pan\.baidu\.com/s/17vRnYubic2zE\_ueq0djXPQ?pwd=9594
-
-提取码: 9594
+2. [百度网盘下载（提取码：9594）](https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594)
 
 
 
 【视频教程】
 
-https://www\.bilibili\.com/video/BV1Kt7A6YEqA
+[Codex一键安装配置｜国内用户防封号平替方案，小白也能30秒搞定](https://www.bilibili.com/video/BV1Kt7A6YEqA/?share_source=copy_web&vd_source=e7e413227d08f884bd442a4337b51872)
 
 
 
@@ -29,18 +27,6 @@ QQ 690023772
 WX shenchong999
 
 
-
-#### 它会自动处理：
-
-1. 将 config\.toml 中的推荐配置合并到 Codex 配置文件。
-
-2. 配置 auth\.json 中的 OPENAI\_API\_KEY。
-
-3. 清理 auth\.json 中 OPENAI\_API\_KEY 以外的字段。
-
-4. 自动备份原有配置文件，避免误操作导致配置丢失。
-
-    
 
 本工具不会读取或上传你的 API 秘钥。API 秘钥只会写入你自己电脑上的 Codex 配置目录。
 
@@ -124,7 +110,19 @@ WX shenchong999
 
 
 
-# 五、配置文件位置
+# 五、配置文件位置和脚本工作内容
+
+#### 脚本会自动处理：
+
+1. 将 config\.toml 中的推荐配置合并到 Codex 配置文件。
+
+2. 配置 auth\.json 中的 OPENAI\_API\_KEY。
+
+3. 清理 auth\.json 中 OPENAI\_API\_KEY 以外的字段。
+
+4. 自动备份原有配置文件，避免误操作导致配置丢失。
+
+
 
 macOS：
 
@@ -154,37 +152,37 @@ auth\.json\.bak\.20260605\-120000
 
 # 六、常见问题
 
-1. 粘贴 API 秘钥时没有显示内容，是否正常？
+### 1. 粘贴 API 秘钥时没有显示内容，是否正常？
 
 正常。为了保护秘钥，输入时不会显示字符。粘贴后直接按回车即可。
 
 
 
-2. 脚本提示配置完成后还需要做什么？
+### 2. 脚本提示配置完成后还需要做什么？
 
 请关闭并重新打开 Codex，让新配置生效。
 
 
 
-3. 旧的 auth\.json 里其他字段会保留吗？
+### 3. 旧的 auth\.json 里其他字段会保留吗？
 
 不会。配置脚本会清理 auth\.json，只保留 OPENAI\_API\_KEY 字段。
 
 
 
-4. 配置失败怎么办？
+### 4. 配置失败怎么办？
 
 请截图保存错误提示，并把同目录或 \.codex 目录中生成的 \.bak 备份文件保留好，方便排查。
 
 
 
-5. 是否可以重复执行配置脚本？
+### 5. 是否可以重复执行配置脚本？
 
 可以。重复执行不会重复添加 config\.toml 字段。已有 API 秘钥时，直接按回车会保留原 OPENAI\_API\_KEY，并清理 auth\.json 中其他字段。
 
 
 
-6. 遇到Codex报503错误码怎么办？
+### 6. 遇到Codex报503错误码怎么办？
 
 检查下你使用的模型是否为gpt\-5\.4或更高的模型，太老的模型能力跟不上不在支持范围内，一般在Codex聊天框的右下角切换下模型即可，也可以重新执行一遍一键配置脚本把模型更新到最新。
 
@@ -194,25 +192,25 @@ auth\.json\.bak\.20260605\-120000
 
 Codex 官方页面：
 
-https://openai\.com/codex/
+[Codex 官方页面](https://openai.com/codex/)
 
 
 
 Codex 入门指南：
 
-https://openai\.com/codex/get\-started/
+[Codex 入门指南](https://openai.com/codex/get-started/)
 
 
 
 Codex 应用介绍：
 
-https://openai\.com/index/introducing\-the\-codex\-app/
+[Codex 应用介绍](https://openai.com/index/introducing-the-codex-app/)
 
 
 
 Windows 官方安装入口：
 
-https://get\.microsoft\.com/installer/download/9PLM9XGG6VKS?cid=website\_cta\_psi
+[Windows 官方安装入口](https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi)
 
 
 
@@ -235,6 +233,3 @@ https://get\.microsoft\.com/installer/download/9PLM9XGG6VKS?cid=website\_cta\_ps
 2. 不要把 auth\.json 截图发到公开群聊或社交平台。
 
 3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
-
-
-

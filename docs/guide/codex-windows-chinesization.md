@@ -1,8 +1,10 @@
-# Codex Windows 汉化教程
+# Codex Windows 汉化
 
 ## 一、用途说明
 
 这个教程用于帮助 Windows 用户把 Codex 桌面端界面中的英文菜单和功能名称翻译成中文。
+
+视频教程：<a href="https://www.bilibili.com/video/BV1eaKX6XEAK/?share_source=copy_web&vd_source=e7e413227d08f884bd442a4337b51872" target="_blank" rel="noopener noreferrer">Codex汉化教程，30秒搞定</a>
 
 请注意：
 
@@ -13,7 +15,7 @@
 
 ## 二、下载汉化工具
 
-请先打开 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a>，在页面中的网盘链接里下载：
+请先打开 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a>，在页面中的网盘链接里下载：
 
 `Codex-windows汉化工具.zip`
 
@@ -55,27 +57,27 @@
 
 ## 五、常见问题
 
-1. 汉化后开始菜单里的 Codex 还是英文，正常吗？
+### 1. 汉化后开始菜单里的 Codex 还是英文，正常吗？
 
 正常。汉化版需要通过 `Codex 汉化版.bat` 启动。建议按上面的步骤创建桌面快捷方式。
 
-2. Codex 更新后又变回英文怎么办？
+### 2. Codex 更新后又变回英文怎么办？
 
 重新打开 `install-windows.bat`，选择 `1` 再安装一次汉化。
 
-3. Windows 10 没有完全汉化怎么办？
+### 3. Windows 10 没有完全汉化怎么办？
 
 Windows 10 上可能出现部分内容没有汉化的情况，这属于已知限制。可以尝试重新执行汉化工具，但不保证完全解决。
 
-4. 汉化工具和 Codex 配置工具是什么关系？
+### 4. 汉化工具和 Codex 配置工具是什么关系？
 
-汉化工具只负责界面语言。Codex 安装、模型配置、API 密钥配置请参考 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a>。
+汉化工具只负责界面语言。Codex 安装、模型配置、API 密钥配置请参考 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a>。
 
 ## 六、技术支持
 
 TokenToken 提供 Codex 安装、配置和汉化相关技术支持。
 
-官网地址：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">https://1token-store.com/</a>，满血 GPT 系列模型，更适配 Codex。
+官网地址：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">TokenToken 官网</a>，满血 GPT 系列模型，更适配 Codex。
 
 如需一对一协助，可联系：
 

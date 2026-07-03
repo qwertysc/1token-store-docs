@@ -42,7 +42,7 @@
 
 #### 接入各种软件
 
-<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用教程</a> 
+<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a> 
 
 <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
 
@@ -83,7 +83,7 @@
 
 ## 各种教程
 
-<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用教程</a>
+<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a>
 
 <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
 
@@ -102,6 +102,5 @@
 欢迎各位老板加群，售后问题第一时间回复
 
 <a href="/images/token-token/token-token-10-8ea34486.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-10-8ea34486.webp" alt="Image"></a>
-
 
 

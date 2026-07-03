@@ -42,7 +42,7 @@
 
 #### 接入各种软件
 
-[Codex使用教程](https://givklov4fjz.feishu.cn/docx/D8IadBFpIoEzfXxOEgecSOeAnVe?from=from_copylink) 
+[Codex使用](https://givklov4fjz.feishu.cn/docx/D8IadBFpIoEzfXxOEgecSOeAnVe?from=from_copylink) 
 
 [AI生图](https://givklov4fjz.feishu.cn/docx/AJDAdZfhooKnwvx9cnccpYl7nYf)
 
@@ -83,7 +83,7 @@
 
 # 各种教程
 
-[Codex使用教程](https://givklov4fjz.feishu.cn/docx/D8IadBFpIoEzfXxOEgecSOeAnVe)
+[Codex使用](https://givklov4fjz.feishu.cn/docx/D8IadBFpIoEzfXxOEgecSOeAnVe)
 
 [AI生图](https://givklov4fjz.feishu.cn/docx/AJDAdZfhooKnwvx9cnccpYl7nYf)
 
@@ -102,6 +102,5 @@
 欢迎各位老板加群，售后问题第一时间回复
 
 [![Image](docs/public/images/token-token/token-token-10-8ea34486.webp)](docs/public/images/token-token/token-token-10-8ea34486.webp)
-
 
 

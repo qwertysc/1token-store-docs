@@ -1,22 +1,20 @@
-# Codex使用教程
+# Codex使用
 
 ## 一、用途说明
 
 #### 本工具包用于帮助用户完成 Codex 桌面端安装和基础配置，相关内容都在网盘中，免去网络困扰。
 
-夸克网盘codex安装包+配置脚本链接：<a href="https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z</a>
+网盘下载：
 
-提取码：1D4Z
+1. <a href="https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z" target="_blank" rel="noopener noreferrer">夸克网盘下载（提取码：1D4Z）</a>
 
-百度网盘codex安装包+配置脚本链接，<a href="https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594" target="_blank" rel="noopener noreferrer">https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594</a>
-
-提取码: 9594
+2. <a href="https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594" target="_blank" rel="noopener noreferrer">百度网盘下载（提取码：9594）</a>
 
 
 
 【视频教程】
 
-<a href="https://www.bilibili.com/video/BV1Kt7A6YEqA" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1Kt7A6YEqA</a>
+<a href="https://www.bilibili.com/video/BV1Kt7A6YEqA/?share_source=copy_web&vd_source=e7e413227d08f884bd442a4337b51872" target="_blank" rel="noopener noreferrer">Codex一键安装配置｜国内用户防封号平替方案，小白也能30秒搞定</a>
 
 
 
@@ -29,18 +27,6 @@ QQ 690023772
 WX shenchong999
 
 
-
-#### 它会自动处理：
-
-1. 将 config.toml 中的推荐配置合并到 Codex 配置文件。
-
-2. 配置 auth.json 中的 OPENAI_API_KEY。
-
-3. 清理 auth.json 中 OPENAI_API_KEY 以外的字段。
-
-4. 自动备份原有配置文件，避免误操作导致配置丢失。
-
-    
 
 本工具不会读取或上传你的 API 秘钥。API 秘钥只会写入你自己电脑上的 Codex 配置目录。
 
@@ -115,7 +101,7 @@ WX shenchong999
 
 5. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
 
-6. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化教程</a> 处理。
+6. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> 处理。
 
 7. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
@@ -126,7 +112,19 @@ WX shenchong999
 
 
 
-## 五、配置文件位置
+## 五、配置文件位置和脚本工作内容
+
+#### 脚本会自动处理：
+
+1. 将 config.toml 中的推荐配置合并到 Codex 配置文件。
+
+2. 配置 auth.json 中的 OPENAI_API_KEY。
+
+3. 清理 auth.json 中 OPENAI_API_KEY 以外的字段。
+
+4. 自动备份原有配置文件，避免误操作导致配置丢失。
+
+
 
 macOS：
 
@@ -156,37 +154,37 @@ auth.json.bak.20260605-120000
 
 ## 六、常见问题
 
-1. 粘贴 API 秘钥时没有显示内容，是否正常？
+### 1. 粘贴 API 秘钥时没有显示内容，是否正常？
 
 正常。为了保护秘钥，输入时不会显示字符。粘贴后直接按回车即可。
 
 
 
-2. 脚本提示配置完成后还需要做什么？
+### 2. 脚本提示配置完成后还需要做什么？
 
 请关闭并重新打开 Codex，让新配置生效。
 
 
 
-3. 旧的 auth.json 里其他字段会保留吗？
+### 3. 旧的 auth.json 里其他字段会保留吗？
 
 不会。配置脚本会清理 auth.json，只保留 OPENAI_API_KEY 字段。
 
 
 
-4. 配置失败怎么办？
+### 4. 配置失败怎么办？
 
 请截图保存错误提示，并把同目录或 .codex 目录中生成的 .bak 备份文件保留好，方便排查。
 
 
 
-5. 是否可以重复执行配置脚本？
+### 5. 是否可以重复执行配置脚本？
 
 可以。重复执行不会重复添加 config.toml 字段。已有 API 秘钥时，直接按回车会保留原 OPENAI_API_KEY，并清理 auth.json 中其他字段。
 
 
 
-6. 遇到Codex报503错误码怎么办？
+### 6. 遇到Codex报503错误码怎么办？
 
 检查下你使用的模型是否为gpt-5.4或更高的模型，太老的模型能力跟不上不在支持范围内，一般在Codex聊天框的右下角切换下模型即可，也可以重新执行一遍一键配置脚本把模型更新到最新。
 
@@ -196,25 +194,25 @@ auth.json.bak.20260605-120000
 
 Codex 官方页面：
 
-<a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer">https://openai.com/codex/</a>
+<a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer">Codex 官方页面</a>
 
 
 
 Codex 入门指南：
 
-<a href="https://openai.com/codex/get-started/" target="_blank" rel="noopener noreferrer">https://openai.com/codex/get-started/</a>
+<a href="https://openai.com/codex/get-started/" target="_blank" rel="noopener noreferrer">Codex 入门指南</a>
 
 
 
 Codex 应用介绍：
 
-<a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" rel="noopener noreferrer">https://openai.com/index/introducing-the-codex-app/</a>
+<a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" rel="noopener noreferrer">Codex 应用介绍</a>
 
 
 
 Windows 官方安装入口：
 
-<a href="https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi" target="_blank" rel="noopener noreferrer">https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi</a>
+<a href="https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi" target="_blank" rel="noopener noreferrer">Windows 官方安装入口</a>
 
 
 
@@ -237,4 +235,3 @@ Windows 官方安装入口：
 2. 不要把 auth.json 截图发到公开群聊或社交平台。
 
 3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
-

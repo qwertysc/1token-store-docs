@@ -13,13 +13,14 @@
 | 场景 | 适合阅读 |
 | --- | --- |
 | 第一次使用平台 | <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用文档</a> |
-| 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a> |
-| Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化教程</a> |
+| 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a> |
+| 在微信里使用 Codex | <a href="/guide/weixin" target="_blank" rel="noopener noreferrer">接入微信</a> |
+| Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | 生成图片、海报、封面 | <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI 生图</a> |
 | 在 ima 中接入 GPT 模型 | <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">ima + GPT</a> |
 
 ## 常用入口
 
-- 官网：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">https://1token-store.com/</a>
-- API 密钥：<a href="https://1token-store.com/keys" target="_blank" rel="noopener noreferrer">https://1token-store.com/keys</a>
+- 官网：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">TokenToken 官网</a>
+- API 密钥：<a href="https://1token-store.com/keys" target="_blank" rel="noopener noreferrer">TokenToken API 密钥</a>
 - 售后联系：QQ `690023772`，微信 `shenchong999`
