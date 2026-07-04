@@ -15,9 +15,16 @@
 
 ## 二、下载汉化工具
 
-请先打开 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a>，在页面中的网盘链接里下载：
+请根据你当前的情况选择：
 
-`Codex-windows汉化工具.zip`
+| 当前情况 | 下一步 |
+|---|---|
+| 还没有安装 Codex | 先打开 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用教程</a>，完成 Codex 安装和基础配置。 |
+| 已经安装 Codex | 继续使用本页下载汉化工具。本页只负责 Windows 版 Codex 界面汉化。 |
+
+1. <a href="https://pan.quark.cn/s/9d9d84ff90e0?pwd=YzjJ" target="_blank" rel="noopener noreferrer">夸克网盘下载（提取码：YzjJ）</a>
+
+2. <a href="https://pan.baidu.com/s/1M5cFx-Gt1Y7NsjfXDVkxAw?pwd=595e" target="_blank" rel="noopener noreferrer">百度网盘下载（提取码：595e）</a>
 
 下载后，建议把压缩包放在一个固定、常用的目录中，例如“文档”目录。后续汉化版启动入口会保存在这个目录里，不建议安装完成后随意移动整个文件夹。
 
