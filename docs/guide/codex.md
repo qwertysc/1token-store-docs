@@ -56,24 +56,30 @@ WX shenchong999
 
 1. 打开本文件夹。
 
-2. 双击 "Codex-MacOS安装包.dmg"，按提示安装 Codex。
+2. 根据Mac的芯片类型选择 “Codex-MacOS安装包-M系列处理器.dmg” 或 "Codex-MacOS安装包-英特尔处理器.dmg"，双击安装 Codex。
 
 3. 安装完成后，回到本文件夹。
 
-4. 双击 02 一键配置 Codex - macOS.command。
+4. 双击 “02 一键配置 Codex - macOS.zip”，解压出 “02 一键配置 Codex - macOS.command”。
 
-5. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 02 一键配置 Codex - macOS.command。
+5. 双击 “02 一键配置 Codex - macOS.command”。
 
-|<a href="/images/codex/codex-01-84fef160.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-01-84fef160.webp" alt="Image"></a><br>|<a href="/images/codex/codex-02-c18d4169.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-02-c18d4169.webp" alt="Image"></a><br>|
+6. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 “02 一键配置 Codex - macOS.command”。
+
+|<a href="/images/codex/codex-01-0ea488e8.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-01-0ea488e8.webp" alt="Image"></a><br>|<a href="/images/codex/codex-02-c18d4169.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-02-c18d4169.webp" alt="Image"></a><br>|
 |---|---|
 
-6. 终端窗口出现提示后，粘贴 OPENAI_API_KEY。
+7. 出现“请选择配置方式”后，输入1，按回车。
 
-7. 粘贴时屏幕上不会显示内容，这是正常现象。
+<a href="/images/codex/codex-07-0fbe1963.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-07-0fbe1963.webp" alt="macOS 选择配置方式"></a>
 
-8. 粘贴后按回车。
+8. 出现OPENAI_API_KEY的提示后，粘贴密钥，按回车。密钥参考 <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请。
 
-9. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex。
+<a href="/images/codex/codex-08-919768af.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-08-919768af.webp" alt="macOS 输入 API 密钥"></a>
+
+9. 粘贴时屏幕上不会显示内容，这是正常现象。
+
+10. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex。
 
     
 
@@ -83,7 +89,7 @@ WX shenchong999
 
 1. 打开本文件夹。
 
-2. 双击 "01 一键配置 Codex - Windows.cmd"，运行界面如图。
+2. 双击 "01 一键配置 Codex - Windows.cmd"。
 
     1. 脚本会先检查是否已安装 Codex；如果未安装且当前目录有 "Codex-Windows安装包.Msix" 或 "App Installer.msixbundle"，请按提示选择是否现在安装。
 
@@ -91,26 +97,17 @@ WX shenchong999
 
     3. 如果上述两个Codex安装尝试都失败，可以改 "Codex-Windows安装包.Msix"文件后缀Msix为zip，让其变成一个压缩包，然后解压文件，解压过程比较慢，解压完毕后可能会触发杀毒软件扫描而卡住，都是正常现象，然后在解压出的文件夹中找到app文件夹，双击其中的Codex.exe即可运行。
 
-<a href="/images/codex/codex-03-d9b22ee5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-03-d9b22ee5.webp" alt="Image"></a>
+3. 出现“请选择配置方式”后，输入1，按回车。
 
-3. 如果使用我的中转服务，共享ChatGPT订阅账号额度跟Codex更适配，输入1，按回车。
+<a href="/images/codex/codex-09-77d62b71.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-09-77d62b71.webp" alt="Windows 选择配置方式"></a>
 
-<a href="/images/codex/codex-04-7eeab7d2.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-04-7eeab7d2.webp" alt="Image"></a>
+4. 出现OPENAI_API_KEY的提示后，粘贴密钥，按回车。密钥参考 <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请。
 
-4. 粘贴从<a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请的API密钥，按回车。粘贴时屏幕上不会显示内容，这是正常现象。
+<a href="/images/codex/codex-10-0e24e7c6.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-10-0e24e7c6.webp" alt="Windows 输入 API 密钥"></a>
 
-5. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
+5. 粘贴时屏幕上不会显示内容，这是正常现象。
 
-6. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> 处理。
-
-7. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
-
-    |<a href="/images/codex/codex-05-5e1b7459.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-05-5e1b7459.webp" alt="Image"></a><br>    |<a href="/images/codex/codex-06-aa3289d5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-06-aa3289d5.webp" alt="Image"></a><br>    |
-    |---|---|
-
-
-
-
+6. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
 
 ## 五、配置文件位置和脚本工作内容
 
@@ -125,6 +122,8 @@ WX shenchong999
 4. 自动备份原有配置文件，避免误操作导致配置丢失。
 
 
+
+**如需手动修改配置，可参考下面的配置文件位置**
 
 macOS：
 
@@ -235,3 +234,14 @@ Windows 官方安装入口：
 2. 不要把 auth.json 截图发到公开群聊或社交平台。
 
 3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
+
+
+
+## 十、其他操作
+
+1. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> 处理。
+
+2. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
+
+    |<a href="/images/codex/codex-05-5e1b7459.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-05-5e1b7459.webp" alt="Image"></a><br>    |<a href="/images/codex/codex-06-aa3289d5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-06-aa3289d5.webp" alt="Image"></a><br>    |
+    |---|---|
