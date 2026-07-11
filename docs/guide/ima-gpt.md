@@ -18,11 +18,11 @@ ima是腾讯开发的AI工作台，以知识库为核心，支持读搜写。cop
 
 3. 然后在“功能”模块点击“模型设置”，进入模型设置页面，点击“添加自定义模型”，参数分别填
 
-    1. 接口地址，<a href="https://api.1token-store.com:4567/v1/chat/completions" target="_blank" rel="noopener noreferrer">TokenToken Chat Completions 接口</a>
+    1. 接口地址，[https://edge.1token-store.com/v1/chat/completions](https://edge.1token-store.com/v1/chat/completions)
 
     2. API Key，按照这个文档 <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 注册申请
 
-    3. 模型名称，gpt-5.5
+    3. 模型名称，gpt-5.6-sol
 
 <a href="/images/ima-gpt/ima-gpt-02-0ef1f953.webp" target="_blank" rel="noopener noreferrer"><img src="/images/ima-gpt/ima-gpt-02-0ef1f953.webp" alt="Image"></a>
 

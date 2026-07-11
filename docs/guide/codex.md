@@ -189,6 +189,12 @@ auth.json.bak.20260605-120000
 
 
 
+### 7. 怎么更新 Codex？
+
+可从<a href="https://pan.quark.cn/s/4c758e82b7c4?pwd=1D4Z" target="_blank" rel="noopener noreferrer">夸克网盘</a>或<a href="https://pan.baidu.com/s/17vRnYubic2zE_ueq0djXPQ?pwd=9594" target="_blank" rel="noopener noreferrer">百度网盘</a>下载最新版安装包，我会一直更新。macOS 双击安装包即可更新；Windows 把安装包放在“01 一键配置 Codex - Windows.cmd”旁边，然后执行一次一键配置即可更新。
+
+
+
 ## 七、Codex 官方页面
 
 Codex 官方页面：

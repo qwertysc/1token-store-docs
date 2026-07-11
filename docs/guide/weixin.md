@@ -15,6 +15,12 @@
 安装这个技能并帮我启动微信连接器：https://gitee.com/shenchong/chat-codex-connectors-skill
 ```
 
+## 接入效果
+
+连接成功后，即可在微信中向 Codex 发送消息，并在电脑端查看和执行任务。
+
+<a href="/images/weixin/weixin-result.webp" target="_blank" rel="noopener noreferrer"><img src="/images/weixin/weixin-result.webp" alt="微信连接 Codex 后的使用效果"></a>
+
 ## 注意事项
 
 ### 1. 为什么 Codex 桌面端看不到微信聊天产生的会话？
