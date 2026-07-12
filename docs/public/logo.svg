@@ -1,5 +1,25 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="14" fill="#0F766E"/>
-  <path d="M16 18H48V26H36V48H28V26H16V18Z" fill="white"/>
-  <circle cx="47" cy="47" r="5" fill="#F59E0B"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="TokenToken">
+  <defs>
+    <linearGradient id="background" x1="128" y1="64" x2="896" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0E2B"/>
+      <stop offset="1" stop-color="#02030E"/>
+    </linearGradient>
+    <radialGradient id="symbol" cx="512" cy="512" r="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1AD9E8"/>
+      <stop offset=".42" stop-color="#168CFF"/>
+      <stop offset="1" stop-color="#7B2CFF"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="168" fill="url(#background)"/>
+  <g fill="url(#symbol)" stroke="url(#symbol)" stroke-width="34">
+    <path d="M512 263V400M624 512H761M512 624V761M263 512H400"/>
+    <path d="M337 441A184 184 0 0 1 441 337M583 337A184 184 0 0 1 687 441M687 583A184 184 0 0 1 583 687M441 687A184 184 0 0 1 337 583" stroke-width="44" fill="none"/>
+  </g>
+  <g fill="url(#symbol)">
+    <circle cx="512" cy="512" r="84"/>
+    <circle cx="512" cy="205" r="58"/>
+    <circle cx="819" cy="512" r="58"/>
+    <circle cx="512" cy="819" r="58"/>
+    <circle cx="205" cy="512" r="58"/>
+  </g>
 </svg>
