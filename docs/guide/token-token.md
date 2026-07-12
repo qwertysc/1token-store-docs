@@ -2,9 +2,9 @@
 
 ## 这是什么？
 
-这是一个大模型聚合平台，上游接的ChatGPT订阅账户，共享额度给各位老板使用，网络问题/ChatGPT账户注册问题/海外信用卡支付订阅的问题，统统不用操心，像使用国内模型一样丝滑使用。
+这是一个大模型聚合平台，上游接的ChatGPT pro订阅账户，共享额度给各位老板使用，网络问题/ChatGPT账户注册问题/海外信用卡支付订阅的问题，统统不用操心，像使用国内模型一样丝滑使用。
 
-当前支持gpt-5.5，gpt-5.4，gpt-image-2等模型，可以接入Codex等智能体写代码，画图，控制电脑等操作，1rmb兑换1刀额度，gpt-5.5输入单价5块，用deepseek单价3块贵一点的价格用顶级模型。老板们若需要别的模型，欢迎来聊。
+当前支持gpt-5.6系列，gpt-5.5，gpt-5.4，gpt-image-2等模型，可以接入Codex写代码，也可以生图、做网站、辅助论文写作，1r兑换1刀额度，gpt-5.6-sol/gpt-5.5百万token输入价格5块，跟国产模型差不多的价格用顶级模型，性价比拉满。
 
 
 
@@ -102,5 +102,4 @@
 欢迎各位老板加群，售后问题第一时间回复
 
 <a href="/images/token-token/token-token-10-8ea34486.webp" target="_blank" rel="noopener noreferrer"><img src="/images/token-token/token-token-10-8ea34486.webp" alt="Image"></a>
-
 
