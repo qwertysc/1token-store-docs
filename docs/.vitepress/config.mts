@@ -20,11 +20,12 @@ export default defineConfig({
         ]
       },
       {
-        text: '接入教程',
+        text: '教程',
         items: [
           { text: 'Codex 使用', link: '/guide/codex' },
           { text: '接入微信', link: '/guide/weixin' },
           { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' },
+          { text: 'Codex 换肤', link: '/guide/codex-skin' },
           { text: 'AI 生图', link: '/guide/ai-image' },
           { text: 'ima + GPT', link: '/guide/ima-gpt' }
         ]

@@ -2,6 +2,12 @@
 
 TokenToken documentation site built with VitePress.
 
+## Required Documentation Guidelines
+
+Before adding or modifying any page, link, navigation entry, style, or image asset, read and follow the [TokenToken 文档开发规范](./DOCS_GUIDELINES.md).
+
+This is a mandatory development requirement for maintainers, Codex, and other automation tools.
+
 ## Local Development
 
 ```bash

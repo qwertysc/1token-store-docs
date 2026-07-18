@@ -2,6 +2,8 @@
 
 这篇教程用于把 Chat-Codex 微信连接器接入到本机 Codex，让你可以在微信里给 Codex 发消息、让 Codex 执行任务。连接器技能会根据电脑系统选择合适脚本，自动准备 Node.js、安装 `@openai/codex` 和 `chat-codex`，并按提示完成微信扫码登录、首次配对和连接器启动。
 
+视频教程：<a href="https://www.bilibili.com/video/BV1T7Nu6nEvR/?share_source=copy_web&amp;vd_source=e7e413227d08f884bd442a4337b51872" target="_blank" rel="noopener noreferrer"><strong>一句话连接微信，随时随地使用 Codex</strong></a>
+
 ## 准备工作
 
 1. 先准备 TokenToken 账号和 API 密钥：<a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用教程</a>，官网地址：<a href="https://1token-store.com/" target="_blank" rel="noopener noreferrer">TokenToken 官网</a>

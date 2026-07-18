@@ -21,6 +21,11 @@
   object-fit: contain;
 }
 
+.vp-doc p > img.guide-image-compact,
+.vp-doc p > a > img.guide-image-compact {
+  max-width: min(100%, 480px);
+}
+
 .vp-doc p > a:has(> img) {
   display: block;
   width: fit-content;
