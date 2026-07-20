@@ -22,7 +22,8 @@ export default defineConfig({
       {
         text: '教程',
         items: [
-          { text: 'Codex 使用', link: '/guide/codex' },
+          { text: 'Codex 安装与配置', link: '/guide/codex' },
+          { text: '学术技能 Nature Skills', link: '/guide/nature-skills' },
           { text: '接入微信', link: '/guide/weixin' },
           { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' },
           { text: 'Codex 换肤', link: '/guide/codex-skin' },
