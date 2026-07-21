@@ -2,6 +2,8 @@
 
 论文好搭子，学术不犯愁。
 
+视频教程：<a href="https://www.bilibili.com/video/BV11sKb6gETQ/?vd_source=a02042d6465bdca5a5af943ba84da757" target="_blank" rel="noopener noreferrer">Nature Skills 学术技能安装与使用</a>
+
 ## 准备工作
 
 请先安装 Codex 并完成基础配置：<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a>。
@@ -15,7 +17,7 @@
 
 https://github.com/Yuan1z0825/nature-skills
 
-当前是中国大陆网络，电脑可能没有 Git。不要使用 git clone，也不要要求用户手动下载。
+用户的电脑可能没有 Git，不要使用 git clone，也不要要求用户手动下载。
 
 请自动识别 Windows 或 macOS/Linux，并执行以下操作：
 
