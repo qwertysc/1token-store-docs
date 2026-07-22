@@ -12,11 +12,11 @@
 
 | 场景 | 适合阅读 |
 | --- | --- |
+| 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 安装与配置</a> |
+| Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | 第一次使用平台 | <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用文档</a> |
-| 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 使用</a> |
 | 用 Codex 搜文献、作图和写论文 | <a href="/guide/nature-skills" target="_blank" rel="noopener noreferrer">学术技能 Nature Skills</a> |
 | 在微信里使用 Codex | <a href="/guide/weixin" target="_blank" rel="noopener noreferrer">接入微信</a> |
-| Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | 自定义 Codex 背景和主题 | <a href="/guide/codex-skin" target="_blank" rel="noopener noreferrer">Codex 换肤</a> |
 | 生成图片、海报、封面 | <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI 生图</a> |
 | 在 ima 中接入 GPT 模型 | <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">ima + GPT</a> |

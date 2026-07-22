@@ -20,12 +20,17 @@ export default defineConfig({
         ]
       },
       {
-        text: '教程',
+        text: '核心教程',
         items: [
           { text: 'Codex 安装与配置', link: '/guide/codex' },
+          { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' }
+        ]
+      },
+      {
+        text: '更多教程',
+        items: [
           { text: '学术技能 Nature Skills', link: '/guide/nature-skills' },
           { text: '接入微信', link: '/guide/weixin' },
-          { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' },
           { text: 'Codex 换肤', link: '/guide/codex-skin' },
           { text: 'AI 生图', link: '/guide/ai-image' },
           { text: 'ima + GPT', link: '/guide/ima-gpt' }
