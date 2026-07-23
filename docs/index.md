@@ -15,6 +15,7 @@
 | 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 安装与配置</a> |
 | Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | 第一次使用平台 | <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用文档</a> |
+| 用 Codex 搜索和抓取网页 | <a href="/guide/firecrawl" target="_blank" rel="noopener noreferrer">Codex 搜索增强工具</a> |
 | 用 Codex 搜文献、作图和写论文 | <a href="/guide/nature-skills" target="_blank" rel="noopener noreferrer">学术技能 Nature Skills</a> |
 | 在微信里使用 Codex | <a href="/guide/weixin" target="_blank" rel="noopener noreferrer">接入微信</a> |
 | 自定义 Codex 背景和主题 | <a href="/guide/codex-skin" target="_blank" rel="noopener noreferrer">Codex 换肤</a> |

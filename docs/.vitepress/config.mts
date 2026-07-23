@@ -29,6 +29,7 @@ export default defineConfig({
       {
         text: '更多教程',
         items: [
+          { text: 'Codex 搜索增强工具', link: '/guide/firecrawl' },
           { text: '学术技能 Nature Skills', link: '/guide/nature-skills' },
           { text: '接入微信', link: '/guide/weixin' },
           { text: 'Codex 换肤', link: '/guide/codex-skin' },
