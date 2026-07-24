@@ -1,5 +1,7 @@
 # 学术技能 Nature Skills
 
+技术指导可联系QQ 690023772，WX shenchong999
+
 论文好搭子，学术不犯愁。
 
 视频教程：<a href="https://www.bilibili.com/video/BV11sKb6gETQ/?vd_source=a02042d6465bdca5a5af943ba84da757" target="_blank" rel="noopener noreferrer">Nature Skills 学术技能安装与使用</a>

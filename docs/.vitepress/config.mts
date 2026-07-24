@@ -23,7 +23,8 @@ export default defineConfig({
         text: '核心教程',
         items: [
           { text: 'Codex 安装与配置', link: '/guide/codex' },
-          { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' }
+          { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' },
+          { text: 'Codex Mac 汉化', link: '/guide/codex-mac-chinesization' }
         ]
       },
       {

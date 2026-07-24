@@ -1,5 +1,7 @@
 # AI生图
 
+技术指导可联系QQ 690023772，WX shenchong999
+
 ## 什么是gpt-image-2 ？
 
 GPT-image-2 可以理解成一个“会听话的图片助理”：你用普通话描述需求，它就能帮你生成海报、配图、教学插画、封面图，甚至修改现有图片。
@@ -39,7 +41,6 @@ GPT-image-2 可以理解成一个“会听话的图片助理”：你用普通�
 4. 在聊天窗口点击发送按钮，耐心等待即可得到你的作品。
 
 <a href="/images/ai-image/ai-image-04-e7102a77.webp"><img class="guide-image-compact" src="/images/ai-image/ai-image-04-e7102a77.webp" alt="发送提示词并生成图片作品"></a>
-
 
 
 

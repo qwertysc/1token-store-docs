@@ -1,5 +1,7 @@
 # Codex Windows 汉化
 
+技术指导可联系QQ 690023772，WX shenchong999
+
 ## 一、用途说明
 
 这个教程用于帮助 Windows 用户把 Codex 桌面端界面中的英文菜单和功能名称翻译成中文。

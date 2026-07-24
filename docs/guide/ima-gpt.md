@@ -1,5 +1,7 @@
 # IMA+GPT=精品小龙虾
 
+技术指导可联系QQ 690023772，WX shenchong999
+
 ## ima是什么？
 
 ima是腾讯开发的AI工作台，以知识库为核心，支持读搜写。copilot是其专属知识伙伴，擅长处理复杂任务，可自定义模型、安装Skill，能越用越懂用户，可以把它当成一只养在云端的小龙虾，配好模型开箱即用，配置在手机上跟电脑端的<a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a>互补。
