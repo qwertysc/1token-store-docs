@@ -30,6 +30,7 @@ export default defineConfig({
       {
         text: '更多教程',
         items: [
+          { text: '第一个在线作品', link: '/guide/tanchishe' },
           { text: 'Codex 搜索增强工具', link: '/guide/firecrawl' },
           { text: '学术技能 Nature Skills', link: '/guide/nature-skills' },
           { text: '接入微信', link: '/guide/weixin' },

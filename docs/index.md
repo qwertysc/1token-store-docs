@@ -15,6 +15,7 @@
 | 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 安装与配置</a> |
 | Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | Mac Codex 界面汉化 | <a href="/guide/codex-mac-chinesization" target="_blank" rel="noopener noreferrer">Codex Mac 汉化</a> |
+| 用 Codex 制作并上线第一个网页作品 | <a href="/guide/tanchishe" target="_blank" rel="noopener noreferrer">第一个在线作品</a> |
 | 第一次使用平台 | <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken 使用文档</a> |
 | 用 Codex 搜索和抓取网页 | <a href="/guide/firecrawl" target="_blank" rel="noopener noreferrer">Codex 搜索增强工具</a> |
 | 用 Codex 搜文献、作图和写论文 | <a href="/guide/nature-skills" target="_blank" rel="noopener noreferrer">学术技能 Nature Skills</a> |
