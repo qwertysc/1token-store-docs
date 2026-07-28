@@ -29,7 +29,7 @@
 
    <a href="/images/tanchishe/tanchishe-01.webp"><img class="guide-image-compact" src="/images/tanchishe/tanchishe-01.webp" alt="在 Codex 中创建贪吃蛇项目并输入开发提示词"></a>
 
-2. EdgeOne 是腾讯云提供的服务，其 Makers 可用于托管网页。进入 Makers 的“项目”页面，点击“创建项目”，然后选择“直接上传”，上传上一步得到的源码压缩包。
+2. EdgeOne 是腾讯云提供的服务，官网地址为 <a href="https://edgeone.ai" target="_blank" rel="noopener noreferrer">EdgeOne 官网</a>，其 Makers 可用于托管网页。进入 Makers 的“项目”页面，点击“创建项目”，然后选择“直接上传”，上传上一步得到的源码压缩包。
 
    <a href="/images/tanchishe/tanchishe-02.webp"><img class="guide-image-compact" src="/images/tanchishe/tanchishe-02.webp" alt="在 EdgeOne Makers 中选择直接上传项目"></a>
 
