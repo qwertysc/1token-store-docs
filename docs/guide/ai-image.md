@@ -1,4 +1,4 @@
-# AI生图
+# 在线生图工具
 
 技术指导可联系QQ 690023772，WX shenchong999
 
@@ -20,6 +20,8 @@ GPT-image-2 可以理解成一个“会听话的图片助理”：你用普通�
 
 2. 操作步骤参考网站使用文档：<a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a>
 
+3. 打开在线生图页面：<a href="https://gpt-image-playground.1token-store.com" target="_blank" rel="noopener noreferrer">https&#58;//gpt-image-playground.1token-store.com</a>
+
 
 
 
@@ -30,7 +32,7 @@ GPT-image-2 可以理解成一个“会听话的图片助理”：你用普通�
 
 <a href="/images/ai-image/ai-image-01-eca63f16.webp"><img class="guide-image-compact" src="/images/ai-image/ai-image-01-eca63f16.webp" alt="打开生图灵感并查看提示词样例"></a>
 
-2. 找到合适的样例后点击“复制”按钮，即可复制完整提示词，然后点击“试一试”按钮跳转到生图工具；也可以直接打开<a href="https://gpt-image-playground.1token-store.com" target="_blank" rel="noopener noreferrer">GPT Image 生图工具</a>。打开后，在对话框输入生图提示词。
+2. 找到合适的样例后点击“复制”按钮，即可复制完整提示词，然后点击“试一试”按钮跳转到生图工具；也可以直接打开<a href="https://gpt-image-playground.1token-store.com" target="_blank" rel="noopener noreferrer">在线生图工具</a>。打开后，在对话框输入生图提示词。
 
 <a href="/images/ai-image/ai-image-02-cf2029b4.webp"><img class="guide-image-compact" src="/images/ai-image/ai-image-02-cf2029b4.webp" alt="复制提示词并打开生图工具"></a>
 
@@ -41,7 +43,6 @@ GPT-image-2 可以理解成一个“会听话的图片助理”：你用普通�
 4. 在聊天窗口点击发送按钮，耐心等待即可得到你的作品。
 
 <a href="/images/ai-image/ai-image-04-e7102a77.webp"><img class="guide-image-compact" src="/images/ai-image/ai-image-04-e7102a77.webp" alt="发送提示词并生成图片作品"></a>
-
 
 
 

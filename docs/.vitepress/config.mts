@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'TokenToken 文档',
-  description: 'TokenToken 平台使用、Codex 接入、AI 生图和 ima 接入教程',
+  description: 'TokenToken 平台使用、Codex 接入、在线生图工具和 ima 接入教程',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
@@ -36,7 +36,8 @@ export default defineConfig({
           { text: '学术技能 Nature Skills', link: '/guide/nature-skills' },
           { text: '接入微信', link: '/guide/weixin' },
           { text: 'Codex 换肤', link: '/guide/codex-skin' },
-          { text: 'AI 生图', link: '/guide/ai-image' },
+          { text: '修复 Codex 生图', link: '/guide/fix-codex-image-generate' },
+          { text: '在线生图工具', link: '/guide/ai-image' },
           { text: 'ima + GPT', link: '/guide/ima-gpt' }
         ]
       }
@@ -68,6 +69,6 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/logo.svg' }],
     ['meta', { property: 'og:title', content: 'TokenToken 文档' }],
-    ['meta', { property: 'og:description', content: 'TokenToken 平台使用、Codex 接入、AI 生图和 ima 接入教程' }]
+    ['meta', { property: 'og:description', content: 'TokenToken 平台使用、Codex 接入、在线生图工具和 ima 接入教程' }]
   ]
 })

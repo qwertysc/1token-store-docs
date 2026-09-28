@@ -44,7 +44,7 @@
 
 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a> 
 
-<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
+<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">在线生图工具</a>
 
 <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">IMA+GPT=精品小龙虾</a>
 
@@ -86,6 +86,6 @@
 
 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a>
 
-<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI生图</a>
+<a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">在线生图工具</a>
 
 <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">IMA+GPT=精品小龙虾</a>

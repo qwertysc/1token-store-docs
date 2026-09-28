@@ -1,6 +1,6 @@
 # TokenToken 文档中心
 
-这里整理 TokenToken 的平台使用、API 密钥申请、Codex 接入、AI 生图和 ima 自定义模型接入教程。
+这里整理 TokenToken 的平台使用、API 密钥申请、Codex 接入、在线生图工具和 ima 自定义模型接入教程。
 
 ## 快速开始
 
@@ -22,7 +22,8 @@
 | 用 Codex 搜文献、作图和写论文 | <a href="/guide/nature-skills" target="_blank" rel="noopener noreferrer">学术技能 Nature Skills</a> |
 | 在微信里使用 Codex | <a href="/guide/weixin" target="_blank" rel="noopener noreferrer">接入微信</a> |
 | 自定义 Codex 背景和主题 | <a href="/guide/codex-skin" target="_blank" rel="noopener noreferrer">Codex 换肤</a> |
-| 生成图片、海报、封面 | <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">AI 生图</a> |
+| Codex 提示无法生成图片 | <a href="/guide/fix-codex-image-generate" target="_blank" rel="noopener noreferrer">修复 Codex 生图</a> |
+| 生成图片、海报、封面 | <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">在线生图工具</a> |
 | 在 ima 中接入 GPT 模型 | <a href="/guide/ima-gpt" target="_blank" rel="noopener noreferrer">ima + GPT</a> |
 
 ## 常用入口
