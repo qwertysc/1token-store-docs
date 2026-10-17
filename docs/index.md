@@ -1,6 +1,6 @@
 # TokenToken 文档中心
 
-这里整理 TokenToken 的平台使用、API 密钥申请、Codex 接入、在线生图工具和 ima 自定义模型接入教程。
+这里整理 TokenToken 的平台使用、API 密钥申请、Codex 与 Claude 桌面版接入、在线生图工具和 ima 自定义模型接入教程。
 
 ## 快速开始
 
@@ -13,6 +13,7 @@
 | 场景 | 适合阅读 |
 | --- | --- |
 | 用 Codex 写代码、控制电脑 | <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex 安装与配置</a> |
+| 在 Claude 桌面版中使用 TokenToken | <a href="/guide/claude-desktop" target="_blank" rel="noopener noreferrer">Claude 桌面版安装与配置</a> |
 | Windows Codex 界面汉化 | <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> |
 | Mac Codex 界面汉化 | <a href="/guide/codex-mac-chinesization" target="_blank" rel="noopener noreferrer">Codex Mac 汉化</a> |
 | 用 Codex 制作并上线第一个网页作品 | <a href="/guide/tanchishe" target="_blank" rel="noopener noreferrer">第一个在线作品</a> |
