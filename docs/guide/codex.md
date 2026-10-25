@@ -66,16 +66,16 @@ WX shenchong999
 
 6. 如果弹窗提示无法打开或执行失败，请打开系统设置，进入“隐私与安全性”，滑到页面最下面，临时允许该脚本执行，然后回到本文件夹重新双击 “02 一键配置 Codex - macOS.command”。
 
-|<a href="/images/codex/codex-01-0ea488e8.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-01-0ea488e8.webp" alt="Image"></a><br>|<a href="/images/codex/codex-02-c18d4169.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-02-c18d4169.webp" alt="Image"></a><br>|
+|<a href="/images/codex/codex-01-0ea488e8.webp"><img class="guide-image-compact" src="/images/codex/codex-01-0ea488e8.webp" alt="macOS 提示无法验证配置脚本，点击完成"></a><br>|<a href="/images/codex/codex-02-c18d4169.webp"><img class="guide-image-compact" src="/images/codex/codex-02-c18d4169.webp" alt="在 macOS 隐私与安全性设置中点击仍要打开"></a><br>|
 |---|---|
 
 7. 出现“请选择配置方式”后，输入1，按回车。
 
-<a href="/images/codex/codex-07-0fbe1963.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-07-0fbe1963.webp" alt="macOS 选择配置方式"></a>
+<a href="/images/codex/codex-07-0fbe1963.webp"><img class="guide-image-compact" src="/images/codex/codex-07-0fbe1963.webp" alt="macOS 选择配置方式"></a>
 
 8. 出现OPENAI_API_KEY的提示后，粘贴密钥，按回车。密钥参考 <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请。
 
-<a href="/images/codex/codex-08-919768af.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-08-919768af.webp" alt="macOS 输入 API 密钥"></a>
+<a href="/images/codex/codex-08-919768af.webp"><img class="guide-image-compact" src="/images/codex/codex-08-919768af.webp" alt="macOS 输入 API 密钥"></a>
 
 9. 粘贴时屏幕上不会显示内容，这是正常现象。
 
@@ -99,59 +99,17 @@ WX shenchong999
 
 3. 出现“请选择配置方式”后，输入1，按回车。
 
-<a href="/images/codex/codex-09-77d62b71.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-09-77d62b71.webp" alt="Windows 选择配置方式"></a>
+<a href="/images/codex/codex-09-77d62b71.webp"><img class="guide-image-compact" src="/images/codex/codex-09-77d62b71.webp" alt="Windows 选择配置方式"></a>
 
 4. 出现OPENAI_API_KEY的提示后，粘贴密钥，按回车。密钥参考 <a href="/guide/token-token" target="_blank" rel="noopener noreferrer">TokenToken使用文档</a> 申请。
 
-<a href="/images/codex/codex-10-0e24e7c6.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-10-0e24e7c6.webp" alt="Windows 输入 API 密钥"></a>
+<a href="/images/codex/codex-10-0e24e7c6.webp"><img class="guide-image-compact" src="/images/codex/codex-10-0e24e7c6.webp" alt="Windows 输入 API 密钥"></a>
 
 5. 粘贴时屏幕上不会显示内容，这是正常现象。
 
 6. 看到“完成。请重新打开 Codex，让新配置生效。”后，重新打开 Codex即可使用。
 
-## 五、配置文件位置和脚本工作内容
-
-#### 脚本会自动处理：
-
-1. 将 config.toml 中的推荐配置合并到 Codex 配置文件。
-
-2. 配置 auth.json 中的 OPENAI_API_KEY。
-
-3. 清理 auth.json 中 OPENAI_API_KEY 以外的字段。
-
-4. 自动备份原有配置文件，避免误操作导致配置丢失。
-
-
-
-**如需手动修改配置，可参考下面的配置文件位置**
-
-macOS：
-
-\~/.codex/config.toml
-
-\~/.codex/auth.json
-
-
-
-Windows：
-
-%USERPROFILE%\\.codex\\config.toml
-
-%USERPROFILE%\\.codex\\auth.json
-
-
-
-脚本会在修改前自动生成备份文件，例如：
-
-config.toml.bak.20260605-120000
-
-auth.json.bak.20260605-120000
-
-
-
-
-
-## 六、常见问题
+## 五、常见问题
 
 ### 1. 粘贴 API 秘钥时没有显示内容，是否正常？
 
@@ -195,59 +153,23 @@ auth.json.bak.20260605-120000
 
 
 
-## 七、Codex 官方页面
+### 8. 遇到“Work browser access requires an authenticated account”的处理方法
 
-Codex 官方页面：
+若 Work 模式发送消息弹出图1错误，参考图2切换成 Codex 模式即可恢复正常使用。
 
-<a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer">Codex 官方页面</a>
+图1：Work 模式报错
 
+<a href="/images/codex/codex-work-01.webp"><img class="guide-image-compact" src="/images/codex/codex-work-01.webp" alt="图1：Work 模式发送消息时提示 Work browser access requires an authenticated account"></a>
 
+图2：切换成 Codex 模式
 
-Codex 入门指南：
+<a href="/images/codex/codex-work-02.webp"><img class="guide-image-compact" src="/images/codex/codex-work-02.webp" alt="图2：打开左上角模式菜单并选择 Codex 模式"></a>
 
-<a href="https://openai.com/codex/get-started/" target="_blank" rel="noopener noreferrer">Codex 入门指南</a>
-
-
-
-Codex 应用介绍：
-
-<a href="https://openai.com/index/introducing-the-codex-app/" target="_blank" rel="noopener noreferrer">Codex 应用介绍</a>
-
-
-
-Windows 官方安装入口：
-
-<a href="https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi" target="_blank" rel="noopener noreferrer">Windows 官方安装入口</a>
-
-
-
-## 八、没有合适的模型？
-
-可以尝试我们的服务，正规订阅账户，用不完来分享，生图、写代码都可以
-
-官网地址 <a href="https://1token-store.com" target="_blank" rel="noopener noreferrer">TokenToken</a>
-
-建议收藏本站，后续遇到安装、配置、网络或使用问题，可以联系qq 690023772、wx shenchong999
-
-
-
-
-
-## 九、安全提醒
-
-1. 不要把 OPENAI_API_KEY 发给陌生人。
-
-2. 不要把 auth.json 截图发到公开群聊或社交平台。
-
-3. 如果怀疑 API 秘钥泄露，请及时到控制台重新生成秘钥。
-
-
-
-## 十、其他操作
+## 六、其他操作
 
 1. 如果 Windows 版 Codex 界面显示英文，可以参考 <a href="/guide/codex-windows-chinesization" target="_blank" rel="noopener noreferrer">Codex Windows 汉化</a> 处理。
 
 2. 如果使用的是国产模型如deepseek，配置方式选择"2 自定义模型"后按回车，然后解压"CC-Switch-v3.16.1-Windows-Portable.zip"运行，点击软件右上角的 ➕即可添加各种模型，如图1所示。注意，使用前需要开启本地路由开关，如图二操作即可开启。
 
-    |<a href="/images/codex/codex-05-5e1b7459.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-05-5e1b7459.webp" alt="Image"></a><br>    |<a href="/images/codex/codex-06-aa3289d5.webp" target="_blank" rel="noopener noreferrer"><img src="/images/codex/codex-06-aa3289d5.webp" alt="Image"></a><br>    |
+    |<a href="/images/codex/codex-05-5e1b7459.webp"><img class="guide-image-compact" src="/images/codex/codex-05-5e1b7459.webp" alt="在 CC Switch 右上角点击加号添加模型"></a><br>    |<a href="/images/codex/codex-06-aa3289d5.webp"><img class="guide-image-compact" src="/images/codex/codex-06-aa3289d5.webp" alt="在 CC Switch 中开启路由总开关和 Codex 路由"></a><br>    |
     |---|---|
