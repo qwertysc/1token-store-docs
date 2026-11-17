@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'TokenToken 文档',
-  description: 'TokenToken 平台使用、Codex、DeepSeek Harness 与 Claude 桌面版接入、在线生图工具和 ima 接入教程',
+  description: 'TokenToken 平台使用、Codex、DeepSeek Harness、WorkBuddy 与 Claude 桌面版接入、在线生图工具和 ima 接入教程',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           { text: 'Codex 安装与配置', link: '/guide/codex' },
           { text: 'DeepSeek Harness 安装与配置', link: '/guide/dsh' },
+          { text: 'WorkBuddy 安装与配置', link: '/guide/workbuddy' },
           { text: 'Claude 桌面版安装与配置', link: '/guide/claude-desktop' },
           { text: 'Codex Windows 汉化', link: '/guide/codex-windows-chinesization' },
           { text: 'Codex Mac 汉化', link: '/guide/codex-mac-chinesization' }
@@ -71,6 +72,6 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/logo.svg' }],
     ['meta', { property: 'og:title', content: 'TokenToken 文档' }],
-    ['meta', { property: 'og:description', content: 'TokenToken 平台使用、Codex、DeepSeek Harness 与 Claude 桌面版接入、在线生图工具和 ima 接入教程' }]
+    ['meta', { property: 'og:description', content: 'TokenToken 平台使用、Codex、DeepSeek Harness、WorkBuddy 与 Claude 桌面版接入、在线生图工具和 ima 接入教程' }]
   ]
 })
