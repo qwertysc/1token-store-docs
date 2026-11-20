@@ -2,9 +2,9 @@
 
 ## 这是什么？
 
-这是一个大模型聚合平台，上游接的ChatGPT pro订阅账户，共享额度给各位老板使用，网络问题/ChatGPT账户注册问题/海外信用卡支付订阅的问题，统统不用操心，像使用国内模型一样丝滑使用。
+这是一个大模型聚合平台，支持多种模型，网络问题/ChatGPT账户注册问题/海外信用卡支付订阅的问题，统统不用操心，像使用国内模型一样丝滑使用。
 
-当前支持gpt-6系列，gpt-5.6系列，gpt-5.5，gpt-image-2/2.5等模型，可以接入Codex写代码，也可以生图、做网站、辅助论文写作，1r兑换1刀额度，gpt-5.6-sol/gpt-5.5百万token输入价格5块，跟国产模型差不多的价格用顶级模型，性价比拉满。
+当前支持GPT，Claude，Gemini，Grok，DeepSeek等系列模型，可以接入各类工具写代码，也可以生图、辅助论文写作，1r兑换1刀额度，国产模型的价格用顶级模型，性价比拉满。
 
 
 
@@ -26,13 +26,17 @@
 
 #### 创建密钥
 
-在开始大模型使用前，需要创建密钥。按图中次序操作，先点击左侧菜单栏的“API密钥”，然后点击页面右上方按钮“创建密钥”，弹框的“名称”随意填，分组选择“ChatGPT/Codex(消耗余额)”，最后点击“创建”。
+在开始大模型使用前，需要创建密钥。
+
+操作以ChatGPT/Codex为例，其他场景根据实际情况选择“厂商”。
+
+按图中次序操作，先点击左侧菜单栏的“API密钥”，然后点击页面右上方按钮“创建密钥”，弹框的“名称”随意填，分组选择“ChatGPT/Codex(消耗余额)”，最后点击“创建”。
 
 <a href="/images/token-token/token-token-02.webp"><img class="guide-image-compact" src="/images/token-token/token-token-02.webp" alt="按顺序创建 ChatGPT/Codex 消耗余额分组的 API 密钥"></a>
 
 #### 使用密钥
 
-**方式1(推荐)**，在密钥列表的“API密钥”列，点击复制按钮即可复制密钥。
+**方式1(推荐)**，在密钥列表的“API密钥”列，点击复制按钮即可复制密钥。然后参考下一段接入各类软件使用。
 
 **方式2**，在“操作”列，点击“使用密钥”按钮可查看密钥详细信息。
 
@@ -41,6 +45,12 @@
 #### 接入各种软件
 
 <a href="/guide/codex" target="_blank" rel="noopener noreferrer">Codex使用</a> 
+
+<a href="/guide/dsh" target="_blank" rel="noopener noreferrer">DeepSeek Harness 安装与配置</a>
+
+<a href="/guide/workbuddy" target="_blank" rel="noopener noreferrer">WorkBuddy 安装与配置</a>
+
+<a href="/guide/claude-desktop" target="_blank" rel="noopener noreferrer">Claude 桌面版安装与配置</a>
 
 <a href="/guide/ai-image" target="_blank" rel="noopener noreferrer">在线生图工具</a>
 
@@ -51,24 +61,6 @@
 如额度用完，可点击左侧菜单栏“充值/订阅”，在页面内选择金额后点击确认支付微信扫码充值，自动入账，如有疑问欢迎随时咨询站长wx shenchong999，qq 690023772。1 rmb = 1 刀，gpt系列模型相当于官方价1.5折
 
 <a href="/images/token-token/token-token-04.webp"><img class="guide-image-compact" src="/images/token-token/token-token-04.webp" alt="在充值订阅页面选择充值金额和支付方式"></a>
-
-#### 优惠使用
-
-若token用量较大，可选择订阅服务，相比余额充值优惠更大。在“我的订阅”页面可看到已订阅套餐的详细信息
-
-<a href="/images/token-token/token-token-05.webp"><img class="guide-image-compact" src="/images/token-token/token-token-05.webp" alt="在充值订阅页面选择 ChatGPT/Codex 订阅套餐"></a>
-
-<a href="/images/token-token/token-token-06.webp"><img class="guide-image-compact" src="/images/token-token/token-token-06.webp" alt="在我的订阅页面查看 ChatGPT/Codex 订阅额度和有效期"></a>
-
-#### 【**重要**】如何使用订阅的资源？
-
-**方法1**，在左侧菜单栏“API密钥”页面中点击右上角“创建密钥”，填好名称后，选择订阅分组即可使用订阅资源了，参考图1。  
-
-**方法2**，在已有密钥的“分组”列点击“选择分组”，切换到订阅套餐上，参考图2
-
-<a href="/images/token-token/token-token-07.webp"><img class="guide-image-compact" src="/images/token-token/token-token-07.webp" alt="创建密钥时选择 ChatGPT/Codex 订阅分组"></a>
-
-<a href="/images/token-token/token-token-08.webp"><img class="guide-image-compact" src="/images/token-token/token-token-08.webp" alt="在已有 API 密钥中切换到 ChatGPT/Codex 订阅分组"></a>
 
 #### 邀请返利
 
